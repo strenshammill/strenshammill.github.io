@@ -79,7 +79,7 @@
   "pages": {
     "boatsales.html": {
       "settings": {
-        "meta_descr": "Boats for sale",
+        "meta_descr": "Boats for sale in Strensham Mill, Strensham, Worcester.",
         "title": "Boat Sales",
         "order": 2
       },
@@ -653,7 +653,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "About us",
+        "meta_descr": "Information about our Strensham Mill moorings.",
         "title": "About Us",
         "order": 3
       },
@@ -1242,7 +1242,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Contact us",
+        "meta_descr": "Contact us. Strensham Mill, Mill Lane, Strensham, Worcester WR8 9LB, United Kingdom. 07767 261490.",
         "title": "Contact",
         "order": 4
       },
@@ -1860,7 +1860,7 @@
     },
     "broom34sedan.html": {
       "settings": {
-        "meta_descr": "Broom 34 Sedan",
+        "meta_descr": "Broom 34 Sedan boat for sale",
         "title": "Broom 34 Sedan",
         "order": 5
       },
@@ -2482,7 +2482,7 @@
     },
     "freeman24.html": {
       "settings": {
-        "meta_descr": "Freeman 24 Hard Top",
+        "meta_descr": "Freeman 24 Hard Top boat for sale",
         "title": "Freeman 24 Hard Top",
         "order": 6
       },
@@ -3104,7 +3104,7 @@
     },
     "RLM31.html": {
       "settings": {
-        "meta_descr": "R.L.M. 31",
+        "meta_descr": "R.L.M. 31 boat for sale",
         "title": "R.L.M. 31",
         "order": 7
       },
@@ -3730,8 +3730,8 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Home page",
+        "meta_descr": "Strensham Mill Moorings and Boat Sales.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
