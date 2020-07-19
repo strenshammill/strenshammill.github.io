@@ -5189,13 +5189,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "true",
+            "slides__autoplay": "false",
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-171.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -5233,7 +5233,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/strenshammill.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
